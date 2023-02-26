@@ -22,3 +22,4 @@ print(type(1.5)) # Tipo 'float'
 print(type(1 + 2j)) # Tipo 'complex'
 print(type(True)) # Tipo 'bool'
 
+print(type(print("Mi cadena de texto"))) # Tipo 'NoneType'
