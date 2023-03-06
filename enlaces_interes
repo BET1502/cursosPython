@@ -1,8 +1,9 @@
-Web oficial de Python |||||||||||||||||||||||||||||||||| https://www.python.org                     
-Tutorial oficial de Python en español |||||||||||||||||| https://docs.python.org/es/3/tutorial/index.html
-Repo 30 días de Python ||||||||||||||||||||||||||||||||| https://github.com/Asabeneh/30-Days-Of-Python
-Juego Codédex para aprender Python ||||||||||||||||||||| https://www.codedex.io
-Visual Studio Code: El editor que estoy usando ||||||||| https://code.visualstudio.com
-FastAPI: El framework para crear nuestra API Backend ||| https://fastapi.tiangolo.com/es/
-MongoDB: La base de datos que utiliza nuestro backend || https://www.mongodb.com
-Deta: Para desplegar nuestra API en la nube |||||||||||| https://deta.space/from-cloud
+Web oficial de Python ||||||||||||||||||||||||||||||||||| https://www.python.org                     
+Tutorial oficial de Python en español |||||||||||||||||||https://docs.python.org/es/3/tutorial/index.html
+Repo 30 días de Python |||||||||||||||||||||||||||||||||| https://github.com/Asabeneh/30-Days-Of-Python
+Juego Codédex para aprender Python |||||||||||||||||||||| https://www.codedex.io
+Visual Studio Code: El editor que estoy usando |||||||||| https://code.visualstudio.com
+FastAPI: El framework para crear nuestra API Backend |||| https://fastapi.tiangolo.com/es/
+MongoDB: La base de datos que utiliza nuestro backend ||| https://www.mongodb.com
+Deta: Para desplegar nuestra API en la nube ||||||||||||| https://deta.space/from-cloud
+FiraCode: Fuente que contiene ligaduras para caracteres | https://github.com/tonsky/FiraCode
